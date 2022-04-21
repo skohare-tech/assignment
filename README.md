@@ -10,3 +10,5 @@ We will receive a notification of your request after which we can add you to the
 based on your selection. The iOS or Android assignment repository will contain a README.md file with clear description of the assignment along with a template. The assignment is very simple and we are happy to help and answer your questions.
 
 Thank you! We look forward to working with you! 
+
+(You can refer to the sample issue/request: https://github.com/nets-dev/assignment/issues/2)
