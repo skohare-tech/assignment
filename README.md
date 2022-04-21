@@ -1,4 +1,4 @@
-# Welcome to Net's code assignment 
+# Welcome to Nets code assignment 
 
 - Navigate to **Issues** section of this repository.
 - Create a new issue by selecting **New Issue** with the title *(Your name) ios/Android*. Choose iOS or Android.
