@@ -1,7 +1,7 @@
 # Welcome to Nets code assignment 
 
 - Navigate to **Issues** section of this repository.
-- Create a new issue by selecting **New Issue** with the title *(Your name) ios/Android*. Choose iOS or Android.
+- Create a new issue by selecting **New Issue** with the title: **(Your name) ios/Android**. Choose iOS or Android.
 - In the description section of the issue, you can give a brief introduction about yourslef (optional) and let us know **when** you can start working on the assignment.
 
 Please make sure you follow the above steps! 
