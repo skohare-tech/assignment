@@ -1,16 +1,18 @@
 # Welcome to Nets code assignment 
 
-Note that following the instructions is a key part of our code assignement! 
+**Start by _FOLLOWING THE INSTRUCTIONS_:**
 
-- Navigate to **Issues** section of this repository.
-- Create a new issue by selecting **New Issue** with the title: **(Your name) ios/Android**. Choose iOS or Android.
-- In the description section of the issue, you can give a brief introduction about yourslef (optional) and let us know **when** you can start working on the assignment.
-
-Please make sure you follow the above steps! 
-
-We will receive a notification of your request after which we can add you to the iOS or Android assignment project 
-based on your selection. The iOS or Android assignment repository will contain a README.md file with clear description of the assignment along with a template. The assignment is very simple and we are happy to help and answer your questions.
-
-Thank you! We look forward to working with you! 
-
-(You can refer to the sample issue/request: https://github.com/nets-dev/assignment/issues/2)
+1. Navigate to **Issues** section of this repository
+2. Create a new issue by selecting **New Issue** with a title suits your iOS/Android case  
+    _#Name #Surname, iOS assignment request_  
+3. Give a brief introduction about yourself (optional) and let us know **when** you can start working on the assignment  
+    _Hi, my name is #Name #Surname. I have about 3 years of experience working as an iOS developer and have experience in Swift. You may grant my GitHub account access to the iOS code assignment. I am free this week and will start working on the project as soon as I get the access. Thanks!_  
+4. Wait for us adding you to the project based on your iOS/Android case  
+5. Follow the clear description in the **README.md** file in the assignment repository when you are added in the project 
+6. See the template project, open each file and understand the general design before starting on the given tasks.  
+  
+We believe the assignment is very simple for you yet do not hesitate to reach out on **GitHub** for any question or help.
+  
+We look forward to working with you!  
+  
+(You can refer to the sample issue/request: https://github.com/nets-dev/assignment/issues/2 for instructions)
