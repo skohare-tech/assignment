@@ -16,3 +16,9 @@ We believe the assignment is very simple for you yet do not hesitate to reach ou
 We look forward to working with you!  
   
 (You can refer to the sample issue/request: https://github.com/nets-dev/assignment/issues/2 for instructions)
+
+Note: use your **personal GitHub account** with some **projects** for reference.
+As a developer, projects speak louder than years of experience or CV.
+(Any project in iOS, even tutorial or school projects would be appreciated)
+
+PS, **always tag** _nets-dev_ when you write to us on GitHub so we receive notification and reply promptly.
